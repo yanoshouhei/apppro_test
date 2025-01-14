@@ -26,6 +26,17 @@
 
 現れた画面で　TOKENを入力
 
+github上に test.txtが追記されている
+
+2回目のpushするときは
+
+> git add test.txt
+
+> git commit -m "２回目のpush"
+
+＞git push
+
+でできる。
 
 
 
